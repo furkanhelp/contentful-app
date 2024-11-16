@@ -41,4 +41,4 @@ While building the Contentful App, I gained a deeper understanding of integratin
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to Jhon Smilga providing feedback on my <a href="https://github.com/john-smilga">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
