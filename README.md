@@ -15,9 +15,7 @@
 <br>
 
 ## About The Project
-This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.
-The challenge is to build out this landing page and get it looking as close to the design as possible.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+The Contentful App is a web application designed to showcase the power of integrating modern content management systems with React. Built with a focus on simplicity and efficiency, the app retrieves and displays content dynamically from Contentful, a headless CMS platform. This project serves as both a practical tool for managing and presenting content seamlessly and a demonstration of leveraging APIs to build responsive and scalable applications. The clean design and smooth functionality reflect the potential of combining React's robust framework with third-party integrations like Contentful.
 
 <br><br>Users should be able to:
 <br>1. View the optimal layout depending on their device's screen size.
